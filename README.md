@@ -9,7 +9,7 @@ Dataset berisi **9.466 ulasan** dari Google Play Store, yang kemudian diproses u
 
 ## Raw Dataset Link  
 Dataset dapat diakses melalui Kaggle pada tautan berikut:  
-🔗 [Netflix App Reviews Dataset (Kaggle)]([https://www.kaggle.com/](https://www.kaggle.com/datasets/ashishkumarak/netflix-reviews-playstore-daily-updated))   
+🔗 https://www.kaggle.com/datasets/ashishkumarak/netflix-reviews-playstore-daily-updated  
 
 ## Insight & Findings  
 Berdasarkan hasil analisis:  

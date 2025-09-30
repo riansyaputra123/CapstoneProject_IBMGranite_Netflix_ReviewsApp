@@ -17,7 +17,8 @@ Berdasarkan hasil analisis:
 - **Rata-rata skor aplikasi cenderung menurun** seiring waktu, menunjukkan adanya penurunan kepuasan pengguna.  
 - **Positive reviews** masih muncul, terutama terkait dengan kualitas streaming dan pengalaman antarmuka.  
 - **Mixed reviews** relatif sedikit, tetapi umumnya terkait pengalaman yang bercampur antara kelebihan (konten menarik) dan kekurangan (bug teknis).  
-
+Insight lebih lengkap dapat diakses melalui Slide Presentation berikut:
+🔗 https://www.canva.com/design/DAGyQqfpNCk/k3jk51hrpZK_-FoxQ3c0Vw/edit?utm_content=DAGyQqfpNCk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ## AI Explanation  
 Analisis ini menggunakan **IBM Granite 13B Instruct**, sebuah model AI yang mampu melakukan:  
 - **Klasifikasi Sentimen** → Mengelompokkan ulasan ke dalam kategori **Positive, Negative, dan Mixed**.  
